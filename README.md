@@ -1,4 +1,4 @@
-# hugemed
+# HugeMed
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-hugemed is a company surfaced as a portfolio company of qiming and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+HugeMed (Shenzhen HugeMed Medical Technical Development Co., Ltd.) is a high-tech medical-device manufacturer founded in 2014 and headquartered in Shenzhen, China, specializing in airway management and endoscopic visualization equipment. Its product portfolio spans video laryngoscopes (blade, flexible, and stylet types for emergency, anesthesia, ICU, and educational use), single-use endoscopes for gynecology, ENT, gastroenterology, pulmonology, and urology, reusable ENT and urology endoscopes, and medical image processors. The company operates production facilities exceeding 60,000 square meters, employs roughly 600 people, and serves more than 10,000 medical institutions across 100+ countries. HugeMed is a hardware-first medical-device maker and does not currently publish a public API, developer portal, SDK, or technical integration surface; this profile was surfaced as a portfolio company of Qiming Venture Partners and enriched with company identity and infrastructure probes.
 
-Backed by: qiming — https://hugemed.net
+**Areas:** Company · Medical Devices · Healthcare · Endoscopy · Airway Management · Video Laryngoscope · Medical Imaging · Medical Technology
+
+## HugeMed on APIs.io
+
+Everything profiled for HugeMed is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hugemed/](https://apis.io/providers/hugemed/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hugemed Domain Security](https://apis.io/security/hugemed/hugemed-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hugemed.net)
+- [Support](https://hugemed.net/ContactUs/index.html)
+- [Terms of service](https://hugemed.net/LegalNotice/index.html)
+- [Privacy policy](https://hugemed.net/PrivacyPolicy/index.aspx)
+
+## API Evangelist rating
+
+**Kin Score 9.8** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hugemed/](https://apis.io/providers/hugemed/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HugeMed: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hugemed/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
